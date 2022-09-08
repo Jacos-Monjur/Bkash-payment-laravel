@@ -68,7 +68,9 @@ put credentials your merchant
         "token" : ""
 }
 
+```
 
+```
 php artisan storage:link
 
 ```
